@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBuddySignalR", "ChatBuddySignalR\ChatBuddySignalR\ChatBuddySignalR.csproj", "{0BFA61C6-0519-441F-8B9E-FACA9D474F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBuddySignalR.Client", "ChatBuddySignalR\ChatBuddySignalR.Client\ChatBuddySignalR.Client.csproj", "{A9FB084A-F7BF-4928-B401-FE8311A7F3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatModels", "ChatModels\ChatModels.csproj", "{4AA35750-977B-4624-BF7B-9FC1E55C5EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFA61C6-0519-441F-8B9E-FACA9D474F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFA61C6-0519-441F-8B9E-FACA9D474F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFA61C6-0519-441F-8B9E-FACA9D474F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFA61C6-0519-441F-8B9E-FACA9D474F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FB084A-F7BF-4928-B401-FE8311A7F3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FB084A-F7BF-4928-B401-FE8311A7F3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FB084A-F7BF-4928-B401-FE8311A7F3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FB084A-F7BF-4928-B401-FE8311A7F3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA35750-977B-4624-BF7B-9FC1E55C5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA35750-977B-4624-BF7B-9FC1E55C5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA35750-977B-4624-BF7B-9FC1E55C5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA35750-977B-4624-BF7B-9FC1E55C5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E989400-1BD7-436B-81BC-8898B8E85474}
+	EndGlobalSection
+EndGlobal
